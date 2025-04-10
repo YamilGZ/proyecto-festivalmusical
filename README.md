@@ -16,10 +16,10 @@ Este proyecto es una landing page moderna para un festival de música. Incluye i
 - CSS3 + SASS
 - JavaScript
 - Gulp (automatización de tareas)
-- Estructura modular de carpetas (`src`, `build`)
+- Estructura modular de carpetas (`src`, `docs`)
 
 ## 📁 Estructura del proyecto
-FestivalMusica/ ├── build/ │ ├── css/ │ ├── img/ │ └── js/ ├── node_modules/ ├── src/ │ ├── img/ │ ├── js/ │ └── scss/ ├── video/ ├── gulpfile.js ├── index.html ├── package.json └── package-lock.json
+FestivalMusica/ ├── docs/ │ ├── css/ │ ├── img/ │ └── js/ ├── node_modules/ ├── src/ │ ├── img/ │ ├── js/ │ └── scss/ ├── video/ ├── gulpfile.js ├── index.html ├── package.json └── package-lock.json
 
 ## 📷 Capturas de pantalla
 
@@ -29,7 +29,7 @@ FestivalMusica/ ├── build/ │ ├── css/ │ ├── img/ │ └�
 ### Line-up
 ![Line-up](screenshots/LineUPage.JPG)
 
-### Galería de fotos
+### Galería de fotos y boletos
 ![Galería](screenshots/GaleriaPage.JPG)
 
 ## ▶️ Visualización del proyecto
